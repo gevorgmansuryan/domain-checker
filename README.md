@@ -61,8 +61,8 @@ TESTING
 - run `php yii init` for initializing whois servers
 - run `php yii queue/listen` to enable RabbitMQ worker
 - run `php yii serve`
-- open website upload CSV file containing domains
+- open website and upload CSV file containing domains
 - go to `Stats` to see CSV file domains stats
-- go to `Learning` to configure whois servers and help them to learn how to recognize and parse responses
+- go to `Learning` to configure whois servers and help them to learn how to recognize and parse responses, You can use Sandbox also.
 
 - Also You can tun `php yii init/learn` and servers will try learn how to parse responses itself
