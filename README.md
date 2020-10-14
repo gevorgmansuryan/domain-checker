@@ -65,4 +65,4 @@ TESTING
 - go to `Stats` to see CSV file domains stats
 - go to `Learning` to configure whois servers and help them to learn how to recognize and parse responses, You can use Sandbox also.
 
-- Also You can tun `php yii init/learn` and servers will try learn how to parse responses itself
+- Also You can run `php yii init/learn` and servers will try learn how to parse responses itself
